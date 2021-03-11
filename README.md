@@ -1,2 +1,2 @@
 # sP
-Share project
+Share repository
